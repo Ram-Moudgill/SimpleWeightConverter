@@ -1,4 +1,4 @@
-let doc=document.querySelector("cards");
+let doc=document.querySelector("#cards");
 doc.style.display="none";
 document.querySelector("#enterValue").addEventListener('input',(e)=>
 {
